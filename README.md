@@ -13,5 +13,5 @@ clone我的项目 将src文件夹拷贝至新建项目中得以运行
 通过判断是否有网络，请求下载图片，判断横屏显示壁纸。
 3.	小猫游戏
          ![游戏](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/5.jpg)
-               ![壁纸](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/6.jpg)
+               ![游戏](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/6.jpg)
 用户进入游戏首先看到的是右边第一张图，提示要想办法叫醒他。调用传感器检测，一旦玩家用适当的力度摇晃手机，出现第二个画面，提示摇醒了，即游戏成功！！

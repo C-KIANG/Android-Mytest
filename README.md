@@ -5,7 +5,7 @@
 
 # 效果展示
 1.	首页+次页面（按钮+跳转功能）
-   ![首页](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/1.jpg)
+   ![首页](https://gitee.com/KIANGWORK/img-folder/raw/master/Mytoolbox/1.jpg)
    ![首页](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/2.jpg)
    ![首页](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/3.jpg)
 由于软件的设计，需要进行功能分类，所以首页主要用于设计一个个入口。ImageView、Buttun和菜单item可以点击并实现跳转。

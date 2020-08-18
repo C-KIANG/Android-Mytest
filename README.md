@@ -1,11 +1,12 @@
 # Android-Mytoolbox 是我的个人项目 
+### 注：若图片加载较慢，建议修改host或者挂梯
    Mytoolbox目前功能开发体量尚小，未来有更加强大的功能将不限于只在工具箱内，也可以是作为另一个程序来起到联动运行的作用，甚至可能转型为具有无数云端软件的不同于一般功能，而是精品快应用的载体。
 目前有如下功能
 ### clone我的项目 将src文件夹拷贝至新建项目中得以运行
 
 # 效果展示
 1.	首页+次页面（按钮+跳转功能）
-   ![首页](https://gitee.com/KIANGWORK/img-folder/raw/master/Mytoolbox/1.jpg)
+   ![首页](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/1.jpg)
    ![首页](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/2.jpg)
    ![首页](https://github.com/C-KIANG/img-folder/blob/master/Mytoolbox/3.jpg)
 由于软件的设计，需要进行功能分类，所以首页主要用于设计一个个入口。ImageView、Buttun和菜单item可以点击并实现跳转。
